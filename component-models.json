@@ -137,24 +137,24 @@
     ]
   },
     {
-    "id": "simplecard",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Card Text",
-        "valueType": "string"
-      }
-    ]
-  },
+  "id": "quote",
+  "fields": [
+     {
+       "component": "richtext",
+       "name": "quote",
+       "value": "",
+       "label": "Quote",
+       "valueType": "string"
+     },
+     {
+       "component": "text",
+       "valueType": "string",
+       "name": "author",
+       "label": "Author",
+       "value": ""
+     }
+   ]
+},
   {
     "id": "columns",
     "fields": [

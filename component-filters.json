@@ -14,7 +14,7 @@
       "title",
       "hero",
       "cards",
-      "simplecards",
+      "quote",
       "columns",
       "fragment"
     ]
@@ -25,12 +25,7 @@
       "card"
     ]
   },
-   {
-    "id": "simplecards",
-    "components": [
-      "card"
-    ]
-  },
+   
   {
     "id": "columns",
     "components": [
