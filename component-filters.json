@@ -14,12 +14,19 @@
       "title",
       "hero",
       "cards",
+      "simplecards",
       "columns",
       "fragment"
     ]
   },
   {
     "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+   {
+    "id": "simplecards",
     "components": [
       "card"
     ]

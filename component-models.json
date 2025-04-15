@@ -136,6 +136,25 @@
       }
     ]
   },
+    {
+    "id": "simplecard",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Card Text",
+        "valueType": "string"
+      }
+    ]
+  },
   {
     "id": "columns",
     "fields": [
